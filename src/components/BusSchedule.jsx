@@ -7,7 +7,7 @@ const buses = [
     busNumber: 'UUB-101',
     upTime: '8:00 AM',
     downTime: '5:00 PM',
-    driver: 'John Doe',
+    driver: 'Kholil',
     location: 'শিমুলতলী'
   },
   {
@@ -15,7 +15,7 @@ const buses = [
     busNumber: 'UUB-102',
     upTime: '9:00 AM',
     downTime: '6:00 PM',
-    driver: 'Jane Smith',
+    driver: 'Abdullah',
     location: 'গাজীপুর'
   },
   {
@@ -23,7 +23,7 @@ const buses = [
     busNumber: 'UUB-103',
     upTime: '7:30 AM',
     downTime: '4:30 PM',
-    driver: 'Mike Johnson',
+    driver: 'Rashed',
     location: 'উত্তরা ইউনিভার্সিটি'
   },
 ];
